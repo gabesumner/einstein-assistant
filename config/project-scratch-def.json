@@ -1,7 +1,7 @@
 {
   "orgName": "Einstein Assistant",
   "edition": "Developer",
-  "features": ["EinsteinAssistant"],
+  "features": ["EinsteinAssistant", "FieldService"],
   "settings": {
     "mobileSettings": {
       "enableLightningOnMobile": true
