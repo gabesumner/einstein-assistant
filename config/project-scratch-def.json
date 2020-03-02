@@ -1,11 +1,9 @@
 {
   "orgName": "Einstein Assistant",
   "edition": "Developer",
+  "hasSampleData": true,
   "features": ["EinsteinAssistant", "FieldService"],
   "settings": {
-    "mobileSettings": {
-      "enableLightningOnMobile": true
-    },
     "pathAssistantSettings": {
       "pathAssistantEnabled": true
     }    
